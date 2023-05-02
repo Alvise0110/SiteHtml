@@ -1,0 +1,218 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.logo {
+  position: absolute;
+  width: 586px;
+  height: 300px;
+  left: -120px;
+  top: -190px;
+  background: url(colegio2.png);
+}
+
+
+header{
+position: absolute;
+width: 10000px;
+height: 110px;
+left: -10px;
+top: 0px;
+
+background: black;
+}
+
+.estadual {
+  color: #FFFFFF;
+  font-size: 85px;
+  font-family: "imprima";
+  font-style: normal;
+  position: absolute;
+
+  left: 300px;
+  top: 0px;
+
+  border: 1px solid #000000;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.patioo {
+  position: absolute;
+width: 1100px;
+height: 600px;
+left: 390px;
+top: 350px;
+
+background-image: url(patio.jpg);
+}
+
+.turmas {
+  position: absolute;
+width: 0px;
+height: 0px;
+left: 400px;
+top: 150px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 165px;
+text-align: center;
+
+color: #000000;
+
+border: 0px solid #000000;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.contato {
+  position: absolute;
+width: 1000px;
+height: 0px;
+left: 680px;
+top: 150px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 165px;
+text-align: center;
+
+color: #000000;
+
+border: 0px solid #000000;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.linha {
+  position: absolute;
+width: 10000px;
+height: 31px;
+left: 0px;
+top: 950px;
+
+background: #000000;
+}
+
+.lindos {
+  position: absolute;
+width: 1000px;
+height: 77px;
+left: 550px;
+top: 1050px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 77px;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.eu {
+  position: absolute;
+width: 317px;
+height: 324px;
+left: 400px;
+top: 1280px;
+
+background: url(gab.jpg);
+}
+
+.coradin1 {
+  position: absolute;
+width: 324px;
+height: 324px;
+left: 1100px;
+top: 1280px;
+
+background: url(corado.jpg);
+}
+
+.alvise {
+  position: absolute;
+width: 338px;
+height: 300px;
+left: 400px;
+top: 1631px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.coradin {
+  position: absolute;
+width: 305px;
+height: 144px;
+left: 1100px;
+top: 1634px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+}
+
+.silva {
+  position: absolute;
+width: 1232px;
+height: 39px;
+left: 330px;
+top: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 39px;
+
+color: #FFFFFF;
+}
+
+footer {
+  position: absolute;
+width: 10000px;
+height: 178px;
+top: 2000px;
+background: #000000;
+}
+
+.face {
+  position: absolute;
+width: 100px;
+height: 100px;
+left: 550px;
+top: 70px;
+}
+
+.insta {
+  position: absolute;
+width: 100px;
+height: 100px;
+left: 850px;
+top: 70px;
+}
+
+.twitter {
+ position: absolute;
+  width: 100px;
+  height: 100px;
+  left: 1150px;
+  top: 70px;
+}
