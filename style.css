@@ -168,3 +168,51 @@ line-height: 48px;
 
 color: #000000;
 }
+
+.silva {
+  position: absolute;
+width: 1232px;
+height: 39px;
+left: 330px;
+top: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 39px;
+
+color: #FFFFFF;
+}
+
+footer {
+  position: absolute;
+width: 10000px;
+height: 178px;
+top: 2000px;
+background: #000000;
+}
+
+.face {
+  position: absolute;
+width: 100px;
+height: 100px;
+left: 550px;
+top: 70px;
+}
+
+.insta {
+  position: absolute;
+width: 100px;
+height: 100px;
+left: 850px;
+top: 70px;
+}
+
+.twitter {
+ position: absolute;  
+  width: 100px;
+  height: 100px;
+  left: 1150px;
+  top: 70px;
+}
